@@ -8,3 +8,43 @@ C# parse time         : 1081ms
 candidates check time : 60ms
 console write time    : 5ms
 
+[api-updater (non-obsolete-error-filter)] 13/04/2022 6:45:18 a. m. : Starting E:/Brayan/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1499.0257ms
+moved types parse time: 96ms
+candidates parse time : 20ms
+C# parse time         : 932ms
+candidates check time : 60ms
+console write time    : 6ms
+
+[api-updater (non-obsolete-error-filter)] 13/04/2022 7:08:06 a. m. : Starting E:/Brayan/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 91.0475ms
+moved types parse time: 65ms
+candidates parse time : 1ms
+C# parse time         : 221ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 13/04/2022 7:36:44 a. m. : Starting E:/Brayan/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 84.7133ms
+moved types parse time: 64ms
+candidates parse time : 1ms
+C# parse time         : 230ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 13/04/2022 7:38:40 a. m. : Starting E:/Brayan/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 99.6761ms
+moved types parse time: 66ms
+candidates parse time : 1ms
+C# parse time         : 222ms
+candidates check time : 39ms
+console write time    : 0ms
+
