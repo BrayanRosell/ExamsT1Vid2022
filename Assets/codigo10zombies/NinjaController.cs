@@ -34,10 +34,16 @@ public class NinjaController : MonoBehaviour
             if(colision){
                  Morir();
                  rb2d.velocity = new Vector2(0,rb2d.velocity.y);
+                 Application.Quit();
+            }
+            if (Input.GetKey(KeyCode.X)){
+            Application.Quit();
             }
         
-        
     }
+        
+        
+    
     void OnCollisionEnter2D(Collision2D other){       
               if(other.gameObject.layer == 6){
                colision=true;

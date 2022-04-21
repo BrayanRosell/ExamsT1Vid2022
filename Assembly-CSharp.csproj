@@ -36,11 +36,16 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Codigo 10 dinos\PlayerController.cs" />
-     <Compile Include="Assets\Codigo 10 dinos\EnemyController.cs" />
      <Compile Include="Assets\codigo10zombies\NinjaController.cs" />
      <Compile Include="Assets\codigo10zombies\ZombieMujer.cs" />
+     <Compile Include="Assets\Codigo 10 dinos\PlayerController.cs" />
      <Compile Include="Assets\codigo10zombies\HomZombie.cs" />
+     <Compile Include="Assets\Codigo 10 dinos\EnemyController.cs" />
+     <Compile Include="Assets\material para Gato\codigo\balaIzquierda.cs" />
+     <Compile Include="Assets\material para Gato\codigo\CatController.cs" />
+     <Compile Include="Assets\material para Gato\codigo\balaDerecha.cs" />
+     <Compile Include="Assets\material para Gato\codigo\CameraController.cs" />
+     <Compile Include="Assets\material para Gato\codigo\EnemigosController.cs" />
     <Reference Include="UnityEngine">
         <HintPath>E:\Brayan\2020.3.31f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
